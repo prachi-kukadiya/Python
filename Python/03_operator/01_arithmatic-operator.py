@@ -22,7 +22,7 @@ print("division",result);
 result = num2 // num1;
 print("floor division",result);
 
-# modulo %
+# modulus %
 result = num2 % num1;
 print("modulo",result);
 
