@@ -1,20 +1,20 @@
 # elif examples :-
 
-#1.
+1.
 
-# age =  int(input("Enter your age :-"))
+age =  int(input("Enter your age :-"))
 
-# if age < 13:
-#     print("You are child")
+if age < 13:
+    print("You are child")
 
-# elif age < 18:
-#     print("You are teenager")
+elif age < 18:
+    print("You are teenager")
 
-# elif age < 60:
-#     print("You are an adult")
+elif age < 60:
+    print("You are an adult")
 
-# else:
-#     print("You are senior citizen")
+else:
+    print("You are senior citizen")
 
 
 # 2.
